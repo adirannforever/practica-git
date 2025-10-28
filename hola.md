@@ -1,1 +1,2 @@
-Esta es mi primera pr ctica con Git. 
+Esta es mi primera prï¿½ctica con Git. 
+linea modificada en local 
